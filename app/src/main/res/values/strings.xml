@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Customer Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Rajeev_Ranjan">Rajeev Ranjan</string>
+    <string name="work">Work</string>
+    <string name="B_154_Noida_Sector_63.....">B-154 Noida, Sector 63.....</string>
+    <string name="Search_in_your_neighbourhood">Search in your neighbourhood</string>
+    <string name="Call_and_Order">Call and Order</string>
+    <string name="Online_Ordering">Online Ordering</string>
+    <string name="Categories">Categories</string>
+    <string name="see_more">See More</string>
+    <string name="food">Food</string>
+    <string name="stationary">Stationary</string>
+    <string name="pooja">Pooja</string>
+    <string name="medicine">Medicine</string>
+    <string name="grocery">Grocery</string>
+    <string name="offers">Offers</string>
+    <string name="recommended_for_you">Recommended For You</string>
+    <string name="make_your_nfirst_aid_box">Make Your \nFirst-aid Box</string>
+    <string name="new_arrival_non_home_decor">New Arrival \non Home Decor</string>
+
+
+</resources>

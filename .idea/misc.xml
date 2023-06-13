@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/drawable/categories_drawable.xml" value="0.1785" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/drawable/pick_up_drawable.xml" value="0.1785" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/drawable/profile.xml" value="0.1785" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/drawable/profile_bacground.xml" value="0.1785" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/drawable/recommended_for_you_drawable.xml" value="0.1785" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/drawable/search_view_drawable.xml" value="0.1785" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/drawable/stationary.xml" value="0.237" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/drawable/you_so_want_one.xml" value="0.1" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/layout/fragment_home_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/layout/fragment_live.xml" value="0.25" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/layout/fragment_order_.xml" value="0.25" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/layout/fragment_send_.xml" value="0.25" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/layout/offers.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/layout/offers_itamlist.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/ritik/AndroidStudioProjects/CustomerApplication/app/src/main/res/menu/botton_nav_menu.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
